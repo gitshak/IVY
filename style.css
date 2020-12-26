@@ -1,0 +1,13 @@
+a:hover{
+  color: #2ED9C3 !important;
+}
+h1{
+  color:white;
+  font-family: 'Darker Grotesque', sans-serif;
+  font-weight: bold;
+}
+p{
+  color:white;
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 30px;
+}
